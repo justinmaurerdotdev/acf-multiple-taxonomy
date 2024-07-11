@@ -4,6 +4,11 @@
 
 A simple plugin to add the Multiple Taxonomy field. It allows you to select term(s) from multiple taxonomies.
 
+*NOTE:* 
+This version is forked from the original, in order to provide compatibility with ACF 6.3.2. I have changed the name and 
+contact info for disambiguation purposes only, and will hide this fork if my Pull Request is accepted and an update to 
+the plugin is published.
+
 ## Description
 
 - This plugin adds the Multiple Taxonomy field as one of the Advanced Custom Fields (ACF).
@@ -27,6 +32,8 @@ Note:
 [Plugin page (Wordpress.org)](https://wordpress.org/plugins/acf-multiple-taxonomy/)
 
 ## Changelog
+### 1.0.7
+- Fixes the AJAX handling compatibility issue introduced in ACF 6.3.2.
 ### 1.0.6
 - Removed the Stylized UI toggle button on the field settings screen. This option is now always on.
 ### 1.0.5
