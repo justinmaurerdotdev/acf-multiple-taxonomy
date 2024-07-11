@@ -3,7 +3,7 @@ Contributors: game-ryo
 Tags: acf, multiple, taxonomy
 Requires at least: 4.7
 Tested up to: 6.5.4
-Stable tag: 1.0.7
+Stable tag: 1.0.6.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -49,7 +49,7 @@ This ACF field type is compatible with:
 4. Read the description above for usage instructions
 
 == Changelog ==
-= 1.0.7 =
+= 1.0.6.1 =
 * Fixes the AJAX handling compatibility issue introduced in ACF 6.3.2.
 
 = 1.0.6 =
