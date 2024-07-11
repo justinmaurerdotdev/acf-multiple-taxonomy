@@ -4,7 +4,7 @@
 
 A simple plugin to add the Multiple Taxonomy field. It allows you to select term(s) from multiple taxonomies.
 
-*NOTE:* 
+**NOTE:**
 This version is forked from the original, in order to provide compatibility with ACF 6.3.2. I have changed the name and 
 contact info for disambiguation purposes only, and will hide this fork if my Pull Request is accepted and an update to 
 the plugin is published.
